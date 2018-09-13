@@ -60,7 +60,7 @@ Window {
 
         Rectangle{
             id: colID
-            width: 80
+            width: parent.width *0.1
             height: 25
             color: "#DBDBDB"
             Text {
@@ -72,7 +72,7 @@ Window {
         }
         Rectangle{
             id: colPrioritize
-            width: 180
+            width: parent.width *0.1
             height: 25
             color: "#DBDBDB"
             Text {
@@ -96,7 +96,7 @@ Window {
         }
         Rectangle{
             id: colQty
-            width: 120
+            width: parent.width *0.05
             height: 25
             color: "#DBDBDB"
             Text {
@@ -108,7 +108,7 @@ Window {
         }
         Rectangle{
             id: colTable
-            width: 90
+            width: parent.width *0.05
             height: 25
             color: "#DBDBDB"
             Text {
@@ -120,7 +120,7 @@ Window {
         }
         Rectangle{
             id: colChef
-            width: 400
+            width: parent.width *0.4
             height: 25
             color: "#DBDBDB"
             Text {
