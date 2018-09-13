@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SelfDestroyingRect.qml</file>
+        <file>../Downloads/imgKitchen/if_female1_403023.png</file>
+        <file>../Downloads/imgKitchen/if_male3_403019.png</file>
+        <file>../Downloads/imgKitchen/logo.png</file>
+        <file>../Downloads/imgKitchen/ok.png</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
